@@ -5,11 +5,11 @@
 }
 
 :root {
-    --card3: hsl(0, 0%, 100%);
+    --white: hsl(0, 0%, 100%);
     --background: hsl(214, 17%, 92%);
     --text-card3: hsl(0, 0%, 81%);
     --text-card2: hsl(224, 10%, 45%); 
-     --background-card1: hsl(217, 19%, 35%);
+    --background-card1: hsl(217, 19%, 35%);
     --background-card4: hsl(219, 29%, 14%);
     --Black: hsl(0, 0%, 7%);
     --Purple50: hsl(260, 100%, 95%);
