@@ -17,11 +17,11 @@ Flexbox
 Mobile-first workflow
 
 ### Screenshot
+<img width="1000" height="700" alt="obrazek" src="https://github.com/user-attachments/assets/c7403723-24bf-4804-a301-893bbe1162a9" />
 
-(Add your screenshot here)
 
 ### 🔗 Links
-Solution URL: (add your GitHub repo link here)
+Solution URL: (https://github.com/nikrmajerovak-sys/Testimonials-grid-section--Frontend-Mentor-Challenge);
 Live Site URL: (add your deployed site here)
 💡 What I learned
 
