@@ -22,7 +22,7 @@ Mobile-first workflow
 
 ### 🔗 Links
 Solution URL: (https://github.com/nikrmajerovak-sys/Testimonials-grid-section--Frontend-Mentor-Challenge);
-Live Site URL: (add your deployed site here)
+Live Site URL: (https://nikrmajerovak-sys.github.io/Testimonials-grid-section--Frontend-Mentor-Challenge/)
 💡 What I learned
 
 ### In this project, I practiced:
